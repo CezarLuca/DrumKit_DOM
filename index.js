@@ -1,6 +1,6 @@
 // Detecting Button Press
 
-alert("Hi mom!");
+// alert("Hi mom!");
 let drumCount = document.querySelectorAll(".drum").length;
 for (let i = 0; i < drumCount; i++) {
   //document.querySelectorAll(".drum")[i].addEventListener("click",playSound); // Example of adding event listener to all buttons
